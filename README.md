@@ -1,4 +1,4 @@
-# seoul-bike-ML-review-1
+# seoul-bike-ML-code-review-1
 <p>
 <h2>2021/10/27 Machine Learning Study</h2>
 Machine Learning Code Review<br>
